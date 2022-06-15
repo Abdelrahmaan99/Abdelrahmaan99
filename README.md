@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Elgharbawy</h1>
 <h3 align="center">Embedded system Engineer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmaan99&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmaan99" /> </p>
-
 - 🔭 I’m currently working on [Graduation Project](https://github.com/Abdelrahmaan99/Smart-glove-for-deaf-and-mute)
 
 - 🌱 I’m currently learning **Automotive and modern C++**
