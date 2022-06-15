@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anton&center=true&vCenter=true&lines=Welcome+to+my+GitHub+profile+...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anton&color=22B210&center=true&vCenter=true&lines=Welcome+to+my+GitHub+profile+...)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Abdelrahman Elgharbawy</h1>
 <h3 align="center">Embedded system Engineer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
