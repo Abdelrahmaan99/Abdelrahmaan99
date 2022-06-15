@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anton&size=50&color=69C08B&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+my+GitHub+profile+...)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Abdelrahman Elgharbawy</h1>
 <h3 align="center">Embedded system Engineer from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://magiccopy.xyz/assets/images/hadder.gif">
 
 - 🔭 I’m currently working on [Graduation Project](https://github.com/Abdelrahmaan99/Smart-glove-for-deaf-and-mute)
 
