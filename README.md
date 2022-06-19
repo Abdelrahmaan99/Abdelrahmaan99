@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Graduation Project](https://github.com/Abdelrahmaan99/Smart-glove-for-deaf-and-mute)
 
-- 🌱 I’m currently learning **Automotive and modern C++**
+- 🌱 I’m currently learning **Automotive and modern C++** 
 
 - 💬 Ask me about **C programming, AVR and ARM based microcontroller**
 
